@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "url": "https://clientsite.com/updates/app_update.exe",
+  "url": "https://68f204a9a911e61200341fc2--appupdatee.netlify.app/app_update.exe"
   "release_notes": "Bug fixes and improvements",
   "mandatory": false,
   "file_size": 50000000
